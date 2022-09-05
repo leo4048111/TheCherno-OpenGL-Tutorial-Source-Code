@@ -3,6 +3,6 @@ My implementation of the codes in [TheCherno's OpenGL tutorial series](https://w
 # About this solution
 Each project is the source code for one episode.
 # More about TheCherno
-Check him out with the links below.  
+Check him out via the links below.  
 Youtube: https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw  
 Discord: https://thecherno.com/discord
