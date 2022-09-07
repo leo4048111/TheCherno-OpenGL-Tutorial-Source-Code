@@ -72,11 +72,10 @@ int main(void)
 
         Shader shader("res/shaders/Basic.shader");
         shader.bind();
-        shader.setUniform4f("u_Color", 0.8f, 0.3f, 0.8f, 1.0f);
+        shader.setUniform1i("u_Texture", 0);
 
         Texture texture("res/textures/ChernoLogo.png");
         texture.bind();
-        shader.setUniform1i("u_Texture", 0);
 
         va.unBind();
         vb.unBind();
@@ -92,7 +91,7 @@ int main(void)
             renderer.clear();
 
             shader.bind();
-            shader.setUniform4f("u_Color", r, 0.3f, 0.8f, 1.0f);
+            shader.setUniform1i("u_Texture", 0);
 
             /* Render here */
             renderer.draw(va, ib, shader);
