@@ -37,6 +37,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P19_MathsInOpenGL", "P19_Ma
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P20_ProjectionMatricesInOpenGL", "P20_ProjectionMatricesInOpenGL\P20_ProjectionMatricesInOpenGL.vcxproj", "{0F97CD0F-4D79-48FD-A0F8-07260535FDCD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P21_ModelViewProjectionMatricesInOpenGL", "P21_ModelViewProjectionMatricesInOpenGL\P21_ModelViewProjectionMatricesInOpenGL.vcxproj", "{2553597C-4023-4973-9921-26EFECFB982F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -171,6 +173,14 @@ Global
 		{0F97CD0F-4D79-48FD-A0F8-07260535FDCD}.Release|x64.Build.0 = Release|Win32
 		{0F97CD0F-4D79-48FD-A0F8-07260535FDCD}.Release|x86.ActiveCfg = Release|Win32
 		{0F97CD0F-4D79-48FD-A0F8-07260535FDCD}.Release|x86.Build.0 = Release|Win32
+		{2553597C-4023-4973-9921-26EFECFB982F}.Debug|x64.ActiveCfg = Debug|Win32
+		{2553597C-4023-4973-9921-26EFECFB982F}.Debug|x64.Build.0 = Debug|Win32
+		{2553597C-4023-4973-9921-26EFECFB982F}.Debug|x86.ActiveCfg = Debug|Win32
+		{2553597C-4023-4973-9921-26EFECFB982F}.Debug|x86.Build.0 = Debug|Win32
+		{2553597C-4023-4973-9921-26EFECFB982F}.Release|x64.ActiveCfg = Release|Win32
+		{2553597C-4023-4973-9921-26EFECFB982F}.Release|x64.Build.0 = Release|Win32
+		{2553597C-4023-4973-9921-26EFECFB982F}.Release|x86.ActiveCfg = Release|Win32
+		{2553597C-4023-4973-9921-26EFECFB982F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
