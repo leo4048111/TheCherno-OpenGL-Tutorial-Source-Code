@@ -14,7 +14,7 @@
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
     <ProjectGuid>{AE9DEE69-7AF0-478E-9CBA-970582EF7D61}</ProjectGuid>
-    <RootNamespace>P22ImGuiInOpenGL</RootNamespace>
+    <RootNamespace>P23RenderingMultipleObjectsInOpenGL</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
