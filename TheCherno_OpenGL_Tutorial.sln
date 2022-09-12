@@ -45,6 +45,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P23_RenderingMultipleObject
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P24_SettingUpATestFrameworkForOpenGL", "P24_SettingUpATestFrameworkForOpenGL\P24_SettingUpATestFrameworkForOpenGL.vcxproj", "{3114994F-D91F-452C-98E6-3DAC98DCC361}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P25_CreatingTestsInOpenGL", "P25_CreatingTestsInOpenGL\P25_CreatingTestsInOpenGL.vcxproj", "{55198CC5-9EC4-43DE-BACE-B84E5EB7BA54}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -211,6 +213,14 @@ Global
 		{3114994F-D91F-452C-98E6-3DAC98DCC361}.Release|x64.Build.0 = Release|Win32
 		{3114994F-D91F-452C-98E6-3DAC98DCC361}.Release|x86.ActiveCfg = Release|Win32
 		{3114994F-D91F-452C-98E6-3DAC98DCC361}.Release|x86.Build.0 = Release|Win32
+		{55198CC5-9EC4-43DE-BACE-B84E5EB7BA54}.Debug|x64.ActiveCfg = Debug|Win32
+		{55198CC5-9EC4-43DE-BACE-B84E5EB7BA54}.Debug|x64.Build.0 = Debug|Win32
+		{55198CC5-9EC4-43DE-BACE-B84E5EB7BA54}.Debug|x86.ActiveCfg = Debug|Win32
+		{55198CC5-9EC4-43DE-BACE-B84E5EB7BA54}.Debug|x86.Build.0 = Debug|Win32
+		{55198CC5-9EC4-43DE-BACE-B84E5EB7BA54}.Release|x64.ActiveCfg = Release|Win32
+		{55198CC5-9EC4-43DE-BACE-B84E5EB7BA54}.Release|x64.Build.0 = Release|Win32
+		{55198CC5-9EC4-43DE-BACE-B84E5EB7BA54}.Release|x86.ActiveCfg = Release|Win32
+		{55198CC5-9EC4-43DE-BACE-B84E5EB7BA54}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
